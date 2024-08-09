@@ -84,12 +84,5 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/gessiegulugulu/gessiegulugulu/main/assets/bar_graph.png)
-
-
  Last Updated on 09/08/2024 02:52:11 UTC
 <!--END_SECTION:waka-->
