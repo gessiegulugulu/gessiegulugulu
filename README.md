@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.60%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.60%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -47,13 +47,18 @@ Sunday                   52 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     1 hr 6 mins         ████████████░░░░░░░░░░░░░   48.98 % 
+Python                   49 mins             █████████░░░░░░░░░░░░░░░░   36.89 % 
+SSH Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+CSV                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 52 mins        █████████████████████░░░░   83.50 % 
+Windows                  22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
 ```
 
 **I Mostly Code in Python** 
@@ -69,5 +74,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 04:48:13 UTC
+ Last Updated on 08/01/2026 02:52:56 UTC
 <!--END_SECTION:waka-->
