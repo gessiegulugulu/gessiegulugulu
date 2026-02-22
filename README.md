@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -47,17 +47,13 @@ Sunday                   52 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   30 hrs 11 mins      ██████████████████████░░░   89.89 % 
-Bash                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  33 hrs 34 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    33 hrs 34 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -73,5 +69,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2026 05:18:57 UTC
+ Last Updated on 22/02/2026 05:15:41 UTC
 <!--END_SECTION:waka-->
