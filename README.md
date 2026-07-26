@@ -23,21 +23,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                181 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-🌆 Daytime                556 commits         ████████████████░░░░░░░░░   62.54 % 
-🌃 Evening                128 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-🌙 Night                  24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+🌞 Morning                182 commits         █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+🌆 Daytime                557 commits         ████████████████░░░░░░░░░   62.51 % 
+🌃 Evening                128 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+🌙 Night                  24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   200 commits         ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Tuesday                  120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Wednesday                99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Thursday                 125 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Friday                   253 commits         ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-Saturday                 35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Sunday                   57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Monday                   201 commits         ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
+Tuesday                  120 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Wednesday                99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Thursday                 126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Friday                   253 commits         ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+Saturday                 35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Sunday                   57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 ```
 
 
@@ -47,17 +47,19 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   6 hrs 1 min         ██████████████░░░░░░░░░░░   54.83 % 
-Markdown                 1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Bash                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-TeX                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   5 hrs 10 mins       ███████████░░░░░░░░░░░░░░   43.39 % 
+Markdown                 4 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.97 % 
+Text                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  7 hrs 40 mins       ████████████████░░░░░░░░░   64.35 % 
+Codex CLI                4 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   35.65 % 
 
 💻 Operating System: 
-Linux                    10 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 11 mins      █████████████████████░░░░   85.50 % 
+Windows                  1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
 ```
 
 **I Mostly Code in Python** 
@@ -73,5 +75,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2026 06:29:10 UTC
+ Last Updated on 26/07/2026 06:35:01 UTC
 <!--END_SECTION:waka-->
