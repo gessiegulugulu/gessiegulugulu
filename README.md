@@ -47,19 +47,39 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   5 hrs 10 mins       ███████████░░░░░░░░░░░░░░   43.39 % 
-Markdown                 4 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.97 % 
-Text                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Python                   4 hrs 41 mins       ██████████████████████░░░   87.20 % 
+Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+CSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 40 mins       ████████████████░░░░░░░░░   64.35 % 
-Codex CLI                4 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   35.65 % 
+VS Code                  5 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 11 mins      █████████████████████░░░░   85.50 % 
-Windows                  1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Linux                    5 hrs 22 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 16 mins (79.5%)
+
+✍️ 2,888 lines written by AI, 1,359 lines written by hand (68.0% AI-written)
+
+🔤 79,145,000 Input Tokens, 333,421 Output Tokens
+
+💵 $394.64 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 71 AI Prompts
+
+GPT                      2,922 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 68.0% of written lines came from AI
+📚 Verbose Prompter — average 9,624 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 32.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +95,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 06:35:01 UTC
+ Last Updated on 02/08/2026 06:31:26 UTC
 <!--END_SECTION:waka-->
