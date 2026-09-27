@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.27%20million%20lines%20of%20code-blue?style=flat)
 
@@ -47,41 +47,40 @@ Sunday                   57 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   6 hrs 21 mins       ███████████░░░░░░░░░░░░░░   43.98 % 
-C++                      2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-Markdown                 1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Bash                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-HTML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Python                   5 hrs 37 mins       ███████████████░░░░░░░░░░   58.56 % 
+Markdown                 1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+C++                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 33 mins       █████████████░░░░░░░░░░░░   52.23 % 
-VS Code                  6 hrs 54 mins       ████████████░░░░░░░░░░░░░   47.77 % 
+VS Code                  4 hrs 56 mins       █████████████░░░░░░░░░░░░   51.30 % 
+Codex Vscode             4 hrs 41 mins       ████████████░░░░░░░░░░░░░   48.70 % 
 
 💻 Operating System: 
-Linux                    14 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 27 mins (72.31%)
+⏱ AI Coding Time: 7 hrs 1 min (72.95%)
 
-✍️ 10,218 lines written by AI, 1,144 lines written by hand (89.93% AI-written)
+✍️ 7,144 lines written by AI, 317 lines written by hand (95.75% AI-written)
 
-🔤 8,623,209 Input Tokens, 825,203 Output Tokens
+🔤 4,939,968 Input Tokens, 416,429 Output Tokens
 
-💵 $91.60 Estimated AI Cost This Week
+💵 $86.95 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 171 AI Prompts
+🧠 27 AI Sessions, 180 AI Prompts
 
-GPT                      10,528 lines        █████████████████████████   100.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      8,024 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.93% of written lines came from AI
-📚 Verbose Prompter — average 6,229 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 11.11% of changed lines were hand-edited
+🤖 AI-Driven — 95.75% of written lines came from AI
+📚 Verbose Prompter — average 7,432 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 12.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -97,5 +96,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 09:04:17 UTC
+ Last Updated on 27/09/2026 09:49:32 UTC
 <!--END_SECTION:waka-->
